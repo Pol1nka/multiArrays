@@ -1,0 +1,7 @@
+C:\Users\Pol1nka\RiderProjects\helping\helping\bin\Debug\helping.exe
+C:\Users\Pol1nka\RiderProjects\helping\helping\bin\Debug\helping.pdb
+C:\Users\Pol1nka\RiderProjects\helping\helping\obj\Debug\helping.csproj.AssemblyReference.cache
+C:\Users\Pol1nka\RiderProjects\helping\helping\obj\Debug\helping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pol1nka\RiderProjects\helping\helping\obj\Debug\helping.csproj.CoreCompileInputs.cache
+C:\Users\Pol1nka\RiderProjects\helping\helping\obj\Debug\helping.exe
+C:\Users\Pol1nka\RiderProjects\helping\helping\obj\Debug\helping.pdb
