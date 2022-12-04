@@ -10,9 +10,7 @@ namespace helping
         
         private static int vertical;
         private static int horizontal;
-        
-        private static int[,] matrix;
-        
+
         public static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.DarkCyan;
@@ -52,7 +50,7 @@ namespace helping
         }
         public static void fullMatrix()
         {
-            matrix = new int[vertical, horizontal];
+            int[,] matrix = new int[vertical, horizontal];
             
             Random ran = new Random();
             
